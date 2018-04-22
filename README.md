@@ -3,8 +3,8 @@ I :heart: Westworld. This repository summarizes the work I've done to explore th
 
 Sources:
 
-* Pretty SQL data joined and retrieved from: (Mode Analytics)[https://modeanalytics.com/modeanalytics/tables/westworld_episodes/?utm_medium=microsite&utm_source=westworlddata]
-* Raw scripts from: (Springfield! Springfield!)[https://www.springfieldspringfield.co.uk/]
+* Pretty SQL data joined and retrieved from: [Mode Analytics](https://modeanalytics.com/modeanalytics/tables/westworld_episodes/?utm_medium=microsite&utm_source=westworlddata)
+* Raw scripts from: [Springfield! Springfield!](https://www.springfieldspringfield.co.uk/)
 * Visualization adapted from: [Perkowitz's Westworld Personality Matrix](https://github.com/perkowitz/westworld-personality)
 
 # 1. Requirements
